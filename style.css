@@ -36,13 +36,15 @@
 
   h2{
     margin: 1rem 0;
+    padding: 2rem;
+    text-align: center;
   }
 
   ul{
     list-style: none;
   }
 
-  ul li {
+  ul li{
     margin: 1rem 0;
   }
 
@@ -53,7 +55,7 @@
   input{
     cursor: pointer;
   }
-  
+
   button{
     background-color: #00a693;
     display: block;
